@@ -1,1 +1,1 @@
-<div id="banner" style="width: 100%; height: 50px; background-color: red;"></div>
+<div id="banner" style="width: 100px; height: 50px; background-color: red;"></div>
