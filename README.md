@@ -8,7 +8,7 @@
 
 <div id="skills" align=center>
 <p>
-Basically I am a master in doing & building anything imaginable using the tools below 
+I am a master in doing & building anything imaginable using the tools below 
 </p>
 
  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
