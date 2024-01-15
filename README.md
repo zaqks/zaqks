@@ -8,6 +8,8 @@
 
  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-play-store-new.png" alt="google-play-store-new"/>
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/play--v1.png" alt="play--v1"/>
  
  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/>
@@ -39,6 +41,7 @@
  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
  
  <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
+
 
 
 </div>
