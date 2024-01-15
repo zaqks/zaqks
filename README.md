@@ -4,6 +4,7 @@
 <h1>Hi I'm Zak</h1>
 <h2>Fullstack Developer & Software Engineer</h2>
 
+<h3>Skills</h3>
 <ul>
  <li>dart</li>
  <li>flutter</li>
@@ -14,10 +15,9 @@
  <li>kivy</li>
  <li>pygame</li>
  <li>tkinter</li>
- 
- <li>html</li>
- <li>css</li>
+
  <li>js</li>
+ <li>html css</li>
 
  <li>git</li>
  <li>github</li>
