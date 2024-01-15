@@ -2,7 +2,7 @@
  
 <div id="overview" align=center>
 <h1>Hi I'm Zak</h1>
-<h2>Fullstack Developer<br>&<br>Software Engineer</h2>
+<h2>Fullstack Developer<br>&<br>Software Engineer<br></h2>
 </div>
 
 
