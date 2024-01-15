@@ -5,6 +5,9 @@
 <h2>Fullstack Developer & Software Engineer</h2>
 
 <div id="skills">
+<p>
+Basically I am a master in doing & building anything using the tools below 
+</p>
 
  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
