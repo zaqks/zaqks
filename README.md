@@ -4,6 +4,7 @@
 <h1>Hi I'm Zak</h1>
 <h2>Fullstack Developer & Software Engineer</h2>
 
+<!--
 <h3>Skills</h3>
 <ul>
  <li>dart</li>
@@ -31,3 +32,4 @@
  <li>c++</li>
  <li>SDL</li>
 </ul>
+-->
