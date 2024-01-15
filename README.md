@@ -6,7 +6,7 @@
 </div>
 
 
-<div id="skills">
+<div id="skills" align=center>
 <p>
 Basically I am a master in doing & building anything using the tools below 
 </p>
