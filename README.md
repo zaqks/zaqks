@@ -7,10 +7,10 @@
 
 
 <div id="skills" align=center>
-<p>
+<h3>
 I am a master in doing & building anything imaginable using the tools below 
 <br>
-</p>
+</h3>
 
  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
