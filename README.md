@@ -8,7 +8,7 @@
 
 <div id="skills" align=center>
 <h3>
-I am a master in doing & building anything imaginable using the tools below 
+Those below are my tools
 <br>
 </h3>
 
