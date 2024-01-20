@@ -7,10 +7,12 @@
 
 
 <div id="skills" align=center>
+ <!--
 <h3>
 Those below are my tools
 <br>
 </h3>
+-->
 
  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
