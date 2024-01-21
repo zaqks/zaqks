@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width=100% height=auto></img>
 
 <div id="overview" align=center>
-<h1>Zup; I'm Zak</h1>
+<h1>Hi, I'm Zak</h1>
 <h2>Fullstack Developer<br>&<br>Software Engineer</h2>
 </div>
 
