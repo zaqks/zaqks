@@ -60,10 +60,15 @@ Those below are my tools
 
 <img width="48" height="48" src="https://img.icons8.com/material-outlined/48/github.png" />
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" />
+
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/filmora.png" />
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/gimp.png" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/inkscape--v1.png" alt="inkscape--v1"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/lmms.png" alt="lmms"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/audacity.png" />
 <img width="48" height="48" src="https://img.icons8.com/color/48/fl-studio.png" />
+
 <img width="48" height="48" src="https://img.icons8.com/color/48/solidworks.png" />
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" />
 <img width="48" height="48" src="https://img.icons8.com/material-outlined/48/339AF0/arch-linux.png" />
