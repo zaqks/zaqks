@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width=100% height=auto></img>
+<div align=center>
+ <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width=100% height=auto></img>
+</div>
 
 <div id="overview" align=center>
 <h1>Hi, I'm Zak</h1>
