@@ -2,6 +2,11 @@
  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width=100% height=auto></img>
 </div>
 
+<div align=center>
+   <a href="https://zaqks.github.io">check out my portfolio</a>
+</div>
+
+
 <div id="overview" align=center>
 <h1>Hi, I'm Zak</h1>
 <h2>Fullstack Developer<br>&<br>Software Engineer</h2>
