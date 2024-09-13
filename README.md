@@ -4,7 +4,7 @@
 
 <div align=center>
   <h1>
-    <a href="https://zaqks.github.io">> Check out my portfolio <</a>
+    <a href="https://zaqks.github.io">> My portfolio <</a>
   </h1>   
 </div>
 
