@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="2eT1dx1LI0iN_A6yZeJ5sXGTNitdxvhHyv6FlDTHPu0" />
+
 <div align=center>
  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width=100% height=auto></img>
 </div>
