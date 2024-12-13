@@ -15,7 +15,7 @@
 
 <div id="overview" align=center>
 <h1>Hi, I'm Zak</h1>
-<h2>Fullstack Developer<br>&<br>Software Engineer</h2>
+<h2>DevOPS<br>AI & Software Engineer<br>Fullstack Developer</h2>
 </div>
 
 <div id="skills" align=center>
