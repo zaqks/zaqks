@@ -5,7 +5,7 @@
 <h1>Let's Connect</h1>
 
 <h2><a href="https://zaqks.github.io">My Portfolio</a></h2>   
-<h2><a href="https://github.com/zaqks/zaqks.github.io/blob/84b64b81cc04281189e7a08b8dff0df38530719c/assets/docs/resume.pdf">My Resume</a></h2>
+<!-- <h2><a href="https://github.com/zaqks/zaqks.github.io/blob/84b64b81cc04281189e7a08b8dff0df38530719c/assets/docs/resume.pdf">My Resume</a></h2> -->
 
 
 
