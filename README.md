@@ -1,6 +1,6 @@
-<!--<div align=center>
+<div align=center>
  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width=100% height=auto></img>
-</div>-->
+</div>
 
 <h1>Let's Connect</h1>
 
@@ -11,5 +11,5 @@
 
 <br>
 <div align=center>
-<img src="https://skillicons.dev/icons?i=all" width=100%>
+<!-- <img src="https://skillicons.dev/icons?i=all" width=100%> -->
 </div>
