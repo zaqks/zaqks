@@ -1,15 +1,29 @@
-<div align=center>
- <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width=100% height=auto></img>
-</div>
-
-<h1>Let's Connect</h1>
-
-<h2><a href="https://zaqks.github.io">My Portfolio</a></h2>   
-<h2><a href="https://github.com/zaqks/zaqks.github.io/blob/84b64b81cc04281189e7a08b8dff0df38530719c/assets/docs/resume.pdf">My Resume</a></h2>
+<img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" alt="Welcome GIF" width=100% />
 
 
+<h1 >👋 Hey, I'm Zak</h1>
 
-<br>
-<div align=center>
-<!-- <img src="https://skillicons.dev/icons?i=all" width=100%> -->
-</div>
+<h3 >AI & Visual Computing Engineer | Fullstack Developer | Freelancer</h3>
+
+<p >
+  <a href="https://zaqks.github.io" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right: 20px;">
+    📄 <strong>View My Portfolio</strong>
+  </a>
+  |
+  <a href="https://zaqks.github.io/assets/docs/resume.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-left: 20px;">
+    📝 <strong>Download My Resume</strong>
+  </a>
+</p>
+
+---
+
+### About Me
+
+I am a dedicated professional specializing in AI engineering, visual computing, full-stack development, and software engineering. With a strong computer science background and hands-on experience, I contribute to innovative projects and research in deep learning and visual computing. I combine technical expertise with creativity to develop impactful, human-centered AI and software solutions.
+
+---
+
+### Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/salim-zakaria-eladj)  
+- 💼 [Portfolio](https://zaqks.github.io)  
