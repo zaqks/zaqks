@@ -3,7 +3,9 @@
 
 <h1 >👋 Hey, I'm Zak</h1>
 
-<h3 >AI & Visual Computing Engineer | Fullstack Developer | Freelancer</h3>
+<h3>
+  AI Engineer | Data Scientist | Software Engineer
+</h3>
 
 <p >
   <a href="https://zaqks.github.io" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right: 20px;">
