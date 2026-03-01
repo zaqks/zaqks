@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated professional specializing in AI engineering, visual computing, full-stack development, and software engineering. With a strong computer science background and hands-on experience, I contribute to innovative projects and research in deep learning and visual computing. I combine technical expertise with creativity to develop impactful, human-centered AI and software solutions.
+I am a Computer Science graduate and AI researcher with extensive hands‑on experience as an AI Engineer, Data Scientist, Full‑Stack Developer, and Software Engineer. I specialize in developing production‑grade AI solutions, scalable web applications, IoT systems, and visual computing tools. My expertise includes deep learning model development, full‑stack development, and deploying real‑time AI systems that optimize real‑world processes. I've led workshops and conferences reaching diverse audiences, mentored developers at OpenMindsClub, and conducted cutting‑edge research in medical AI. My work combines rigorous technical expertise in machine learning, backend/frontend development, system design, and cloud infrastructure with a passion for creating impactful, user‑centered solutions that bridge advanced AI research with practical real‑world applications.
 
 
 ---
