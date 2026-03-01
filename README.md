@@ -3,7 +3,7 @@
   
   # 👋 Hey, I'm Zak
   
-  ### AI Engineer & Researcher | Full-Stack Developer | Data Analyst
+  ### AI Engineer | Data Scientist | Software Engineer
 </div>
 
 <div align="center">
