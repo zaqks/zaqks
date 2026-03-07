@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-AI Engineer building production-ready AI systems, data pipelines, and full-stack applications across industrial, research, and startup environments.
+I am Zak, an AI Engineer building production-ready AI systems, data pipelines, and full-stack applications across industrial, research, and startup environments.
 I specialize in AI, IoT systems, and data science & analytics, developing AI-driven applications, industrial data systems, and full-stack web platforms.
 
 Alongside engineering work, I conduct research in medical AI, applying deep learning to real-world healthcare problems, while actively contributing to the tech community by mentoring developers at OpenMindsClub and leading workshops and conferences on AI.
