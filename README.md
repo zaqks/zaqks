@@ -30,4 +30,4 @@ Alongside engineering work, I conduct research in medical AI, applying deep lear
 I am passionate about bridging advanced AI research with real-world systems that deliver measurable impact.
 
 
-<img src="https://zaqks-umami.hf.space/p/GYWQPR5an"/>
+<img src="https://zaqks-umami.hf.space/p/GYWQPR5an" alt="visitors number"/>
