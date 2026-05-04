@@ -30,4 +30,10 @@ Alongside engineering work, I conduct research in medical AI, applying deep lear
 I am passionate about bridging advanced AI research with real-world systems that deliver measurable impact.
 
 
-<img src="https://zaqks-umami.hf.space/p/GYWQPR5an" alt="visitors number"/>
+
+---
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaqks&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
